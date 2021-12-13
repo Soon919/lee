@@ -7,19 +7,19 @@ header,nav, main, footer {
 }
 
 #heroroad {
-    background-image: url("image/heroroad.jpg");
+    background-image: url("heroroad.jpg");
     background-size: 100%;
     height: 250px;
 }
 
 #heromugs {
-    background-image: url("image/heromugs.jpg");
+    background-image: url("heromugs.jpg");
     background-size: 100%;
     height: 250px;
 }
 
 #heroguitar {
-    background-image: url("image/heroguitar.jpg");
+    background-image: url("heroguitar.jpg");
     background-size: 100%;
     height: 250px;
 }
@@ -28,13 +28,13 @@ body {
     background-color: #fcebb6;
     color: #221811;
     font-family: Verdana,Arial, sans-serif;
-    background-image: url("image/background.gif")
+    background-image: url("background.gif")
 }
 
 header {
     background-color: #d2b48c;
     height: 150px;
-    background-image: url("image/javajamlogo.jpg");
+    background-image: url("javajamlogo.jpg");
     background-repeat: no-repeat;
     /*text-align: center;*/
 }
@@ -176,6 +176,6 @@ input, textarea{
 
 #herojobs {
     height: 250px;
-    background-image: url('image/herojobs.jpg');
+    background-image: url('herojobs.jpg');
     background-size: 100% 100%;
 }
